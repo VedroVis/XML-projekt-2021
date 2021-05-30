@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ponuda>
+    <auto id="1">
+        <slika>images/auto1.jpg</slika>
+        <naziv>Renault Clio</naziv>
+        <godiste>1998</godiste>
+        <motor>1,2 benzin</motor>
+        <km>235tkm</km>
+        <snaga>43 kW</snaga>
+        <potrosnja>5L</potrosnja>
+        <cijena>6500 kn</cijena>
+    </auto>
+
+    <auto id="2">
+        <slika>images/auto2.jpg</slika>
+        <naziv>VW Polo</naziv>
+        <godiste>1998</godiste>
+        <motor>1,4 benzin</motor>
+        <km>120tkm</km>
+        <snaga>44 kW</snaga>
+        <potrosnja>6L</potrosnja>
+        <cijena>5000 kn</cijena>
+    </auto>
+
+    <auto id="3">
+        <slika>images/auto3.jpg</slika>
+        <naziv>VW Passat</naziv>
+        <godiste>1997</godiste>
+        <motor>1,9 dizel</motor>
+        <km>265tkm</km>
+        <snaga>81 kW</snaga>
+        <potrosnja>7L</potrosnja>
+        <cijena>7500 kn</cijena>
+    </auto>
+
+    <auto id="4">
+        <slika>images/auto4.jpg</slika>
+        <naziv>Audi A4</naziv>
+        <godiste>1996</godiste>
+        <motor>1,6 benzin</motor>
+        <km>282tkm</km>
+        <snaga>81 kW</snaga>
+        <potrosnja>6L</potrosnja>
+        <cijena>7195 kn</cijena>
+    </auto>
+
+    <auto id="5">
+        <slika>images/auto5.jpg</slika>
+        <naziv>Fiat Punto</naziv>
+        <godiste>2002</godiste>
+        <motor>1,2 benzin</motor>
+        <km>170tkm</km>
+        <snaga>44 kW</snaga>
+        <potrosnja>5L</potrosnja>
+        <cijena>6438 kn</cijena>
+    </auto>
+
+    <auto id="6">
+        <slika>images/auto6.jpg</slika>
+        <naziv>Honda Civic</naziv>
+        <godiste>1994</godiste>
+        <motor>1,5 benzin</motor>
+        <km>221 tkm</km>
+        <snaga>66 kW</snaga>
+        <potrosnja>6L</potrosnja>
+        <cijena>7400 kn</cijena>
+    </auto>
+
+    <auto id="7">
+        <slika>images/auto7.jpg</slika>
+        <naziv>Peugot 206</naziv>
+        <godiste>203</godiste>
+        <motor>1,4 benzin</motor>
+        <km>201 tkm</km>
+        <snaga>55 kW</snaga>
+        <potrosnja>6L</potrosnja>
+        <cijena>7000 kn</cijena>
+    </auto>
+</ponuda>

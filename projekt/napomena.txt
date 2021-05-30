@@ -1,0 +1,1 @@
+Projekt je potreno pokrenuti na "serveru", ja sam koristio Live plugin za VSC.

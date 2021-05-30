@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding : 0;
+}
+
+header {
+    width: 100%;
+    background: linear-gradient(180deg, rgba(255,69,0,1) 0%, rgba(255,128,0,1) 100%);
+    color: white;
+}
+
+header h1 {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+nav li {
+    display: inline;
+    margin: 100px;
+
+    font-size: 18pt;
+    font-weight: bold;
+  }
+
+  a {
+    color: inherit;
+}
+
+  a:hover {
+      color: black;
+      background-color: white;
+      text-decoration: none;
+  }
+
+
+  footer {
+    width: 100%;
+    background: linear-gradient(0deg, rgba(255,69,0,1) 0%, rgba(255,128,0,1) 100%);
+    color: white;
+    height: 30px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    
+  }
+
+
+  #welcome-text {
+      text-align: center;
+      margin: 50px auto;
+  }
+
+  hr {
+      background-color:orangered;
+      width: 50%;
+      margin: 20px auto;
+  }
+
+  #car {
+      margin-top: 30px;
+  }
+
+  #home {
+      margin: 0 auto;
+  }
+
+  table,td {
+      border: 2px solid #FF6500;
+      background-color: #ffecd6;
+      margin: 50px auto;
+      width: 30%;
+      font-size: 16pt;
+      color: black;
+  }
+
+  .last {
+      border: 0px;
+      background-color: white;
+      height: 150px;
+  }
+
+  table img {
+      text-align: center;
+  }
+
+  #terms {
+      font-size: 20pt;
+      color: darkorange;
+      text-align: center;
+      margin-top: 20px;
+      font-weight: bold;
+  }
+
+  #note {
+      text-align: center;
+      color: darkorange;
+  }
+
+  #contact {
+      font-size: 20pt;
+      text-align: center;
+  }
+
+  #phone {
+    display: block;
+    margin: -10px auto;
+    padding: 25px;
+    width: 25%;
+  }
